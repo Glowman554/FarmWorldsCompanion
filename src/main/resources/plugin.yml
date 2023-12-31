@@ -1,0 +1,4 @@
+name: FarmWorldsCompanion
+version: '${project.version}'
+main: de.glowman554.farmworldscompanion.FarmWorldsCompanion
+api-version: '1.20'
